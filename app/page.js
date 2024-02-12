@@ -93,3 +93,22 @@ export default function Home() {
     </main>
   );
 }
+
+
+// my-next-app/
+// ├── .gitignore          # Fichier pour ignorer les fichiers/dossiers dans Git
+// ├── node_modules/       # Dossier contenant les modules installés via npm ou yarn
+// ├── pages/              # Dossier pour les pages de votre application Next.js
+// │   ├── index.js        # Page d'accueil de votre application
+// │   └── about.js        # Page "À propos" de votre application
+// ├── app/                # Dossier pour les fonctionnalités globales de votre application
+// │   └── _app.js         # Composant spécial pour englober votre application
+// ├── public/             # Dossier contenant les fichiers statiques accessibles publiquement
+// │   ├── favicon.ico     # Icône de favicon
+// │   └── ...             # Autres fichiers statiques
+// ├── styles/             # Dossier pour les fichiers de style CSS
+// │   └── globals.css     # Fichier de style global pour votre application
+// ├── .babelrc            # Fichier de configuration Babel pour la compilation de JavaScript
+// ├── next.config.js      # Fichier de configuration Next.js pour la personnalisation de votre projet
+// ├── package.json        # Fichier de configuration npm/yarn contenant les dépendances et les scripts
+// └── yarn.lock           # Fichier de verrouillage Yarn pour garantir la cohérence des dépendances
